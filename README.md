@@ -139,10 +139,3 @@ Final analysis results and figures are located in:
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Acknowledgments
-
-This work was developed at the [Safe Autonomy Lab](https://github.com/safe-autonomy-lab), University of Virginia.  
-For questions, please contact: **Shuyang Dong**
