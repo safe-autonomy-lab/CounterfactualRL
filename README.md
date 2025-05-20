@@ -1,6 +1,6 @@
 # Counterfactual Explanations for Continuous Action Reinforcement Learning  
 Official code for the IJCAI 2025 paper:  
-**"Counterfactual Explanations for Continuous Action Reinforcement Learning"**  
+["Counterfactual Explanations for Continuous Action Reinforcement Learning"](http://arxiv.org/abs/2505.12701) 
 by Shuyang Dong, Shangtong Zhang, and Lu Feng
 
 ---
